@@ -1,0 +1,7 @@
+INSERT INTO `edp_eat` VALUES (1, 'Peking Roasted Duck', 'Peking duck (北京烤鸭 Běijīng kǎoyā) is a famous dish from Beijing, enjoying world fame, and considered as one of China national dishes.', 1);
+INSERT INTO `edp_eat` VALUES (2, 'Kung Pao Chicken', 'Kung Pao Chicken (宫保鸡丁 gōngbào jīdīng) is a famous Sichuan-style specialty, popular with both Chinese and foreigners.', 2);
+INSERT INTO `edp_eat` VALUES (3, 'Sweet and Sour Pork', 'Sweet and sour pork (糖醋里脊 tángcù lǐjǐ) has a bright orange-red color, and a delicious sweet and sour taste. ', 3);
+INSERT INTO `edp_eat` VALUES (4, 'Hot Pot', 'Hot pot, or hotpot (火锅 huǒguō), is one of the most popular dishes in China, especially in Sichuan Province or Chongqing. ', 4);
+INSERT INTO `edp_eat` VALUES (5, 'Dim Sum', 'Dim sum (点心 diǎnxin) is one of the most popular Cantonese cuisine dishes. It contains a large range of small dishes, including dumplings, rolls, cakes, and meat, seafood, dessert, and vegetable preparations.', 5);
+INSERT INTO `edp_eat` VALUES (6, 'Dumplings', 'Dumplings (饺子 jiǎozi) are a traditional food type that is widely popular, especially in North China. Chinese dumplings consist of minced meat and/or chopped vegetables wrapped in a thin dough skin. ', 6);
+INSERT INTO `edp_eat` VALUES (7, 'Ma Po Tofu', 'Ma Po tofu (麻婆豆腐 Mápó dòufǔ ‘Pockmarked Granny beancurd’) is one of the most famous dishes in Chuan Cuisine (Sichuan food) with a history of more than 100 years. It consists of beancurd along with some minced meat (pork or beef) in a spicy sauce. ', 7);

@@ -1,0 +1,7 @@
+INSERT INTO `edp_drink` VALUES (1, 'wine', 'Medium ruby with violet hues, this pinot noir has notes of raspberry, strawberry, and black cherries with a bit of earth, soft tannins, and kirsch aromas alongside crushed purple florals. A quintessential Burgundy, it’s fresh, round and approachable.', 1);
+INSERT INTO `edp_drink` VALUES (90, 'White wine', 'This outstanding chardonnay is delicate on the palate with notes of citrus, oak, pear and a hint of vanilla.', 90);
+INSERT INTO `edp_drink` VALUES (91, 'Grounded Wine Co. Space Age Rosé', 'Rich tropical fruit finds farmer’s market strawberries and candied watermelon in a mineral-fueled, tangerine-peel-tinged, elegant, and lip-smacking rosé.', 91);
+INSERT INTO `edp_drink` VALUES (92, 'Donnafugata Ben Rye 2017', 'Full-bodied and lush, this wine is peppered with honey and citrus zest with an exceptionally long, satisfying and persisting finish.', 92);
+INSERT INTO `edp_drink` VALUES (93, 'Mionetto Prosecco Brut', 'Mionetto Prosecco Brut is produced from 100 percent glera grapes grown in the province of Treviso, an area renowned for high-quality prosecco. ', 93);
+INSERT INTO `edp_drink` VALUES (94, 'Embrazen Cabernet Sauvignon 2016', 'A mélange of dark fruits dominates this wine, including blackberry, plum, currant and blueberries, layered with vanilla, chocolate and spice.', 94);
+INSERT INTO `edp_drink` VALUES (95, ' Müller-Catoir Haardt Muskateller Trocken 2017', ' Müller-Catoir Haardt Muskateller Trocken 2017', 95);

@@ -1,0 +1,9 @@
+INSERT INTO `shgoods_items` VALUES (1, 'digital', NULL, 'admin', '2022-12-22', NULL);
+INSERT INTO `shgoods_items` VALUES (2, 'phone', NULL, 'admin', '2022-12-22', 1);
+INSERT INTO `shgoods_items` VALUES (3, 'computer', NULL, 'admihn', '2022-12-22', 1);
+INSERT INTO `shgoods_items` VALUES (4, 'camera', NULL, 'admin', '2022-12-22', 1);
+INSERT INTO `shgoods_items` VALUES (5, 'book', NULL, 'admin', '2022-12-28', NULL);
+INSERT INTO `shgoods_items` VALUES (6, 'clothes', NULL, 'admin', '2022-12-28', NULL);
+INSERT INTO `shgoods_items` VALUES (7, 'jewelry', NULL, 'admin', '2022-12-28', NULL);
+INSERT INTO `shgoods_items` VALUES (8, 'toy', NULL, 'admin', '2022-12-28', NULL);
+INSERT INTO `shgoods_items` VALUES (9, 'other', NULL, 'admin', '2022-12-28', NULL);
