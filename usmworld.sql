@@ -37,7 +37,6 @@ CREATE TABLE `address` (
 -- ----------------------------
 
 
-Table of Second-hand trade goods entry table
 -- ----------------------------
 -- Table of Second-hand goods item
 -- ----------------------------
